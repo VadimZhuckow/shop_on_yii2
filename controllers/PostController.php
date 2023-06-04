@@ -78,7 +78,7 @@ class PostController extends Controller
     }
 
     public function actionAddLikes(){
-//        $posts = Post::find()->where(['id'=>$id])->one();
+//        $posts = Post::find()->where(['id'=>$id])->one(); поиск по одному +1
 
 }
 }
