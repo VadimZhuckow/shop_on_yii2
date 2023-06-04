@@ -49,6 +49,7 @@ $this->title = $post->title;
 <script>
     $('.likes').click(function(){
        console.log(1);
+       //отпровить запрос
 
     });
 </script>
